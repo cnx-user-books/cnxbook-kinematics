@@ -1,0 +1,84 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col11878</md:content-id>
+  <md:title>Kinematics</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>8d2c82ca-7f76-448e-8958-c68137533c52</md:uuid>
+<md:slug>kinematics</md:slug>
+</metadata>
+
+  <col:content>
+    
+      <col:module document="m57705"/>
+        
+      
+    
+    
+      <col:module document="m57715"/>
+        
+      
+    
+    
+      <col:module document="m57714"/>
+        
+      
+    
+    
+      <col:module document="m57711"/>
+        
+      
+    
+    
+      <col:module document="m57716"/>
+        
+      
+    
+    
+      <col:module document="m57720"/>
+        
+      
+    
+    
+      <col:module document="m57719"/>
+        
+      
+    
+    
+      <col:module document="m57708"/>
+        
+      
+    
+    
+      <col:module document="m57721"/>
+        
+      
+    
+    
+      <col:module document="m57717"/>
+        
+      
+    
+    
+      <col:module document="m57712"/>
+        
+      
+    
+    
+      <col:module document="m57713"/>
+        
+      
+    
+  </col:content>
+</col:collection>
